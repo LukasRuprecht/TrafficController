@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clkin_50'
+Slack : -3.059
+TNS   : -76.172
+
+Type  : Slow 1200mV 85C Model Setup 'Clock_generator:INST5|clk_reg_extend[0]'
+Slack : -0.697
+TNS   : -8.102
+
+Type  : Slow 1200mV 85C Model Hold 'clkin_50'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Clock_generator:INST5|clk_reg_extend[0]'
+Slack : 0.475
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clkin_50'
+Slack : -3.000
+TNS   : -90.733
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Clock_generator:INST5|clk_reg_extend[0]'
+Slack : -1.487
+TNS   : -23.792
+
+Type  : Slow 1200mV 0C Model Setup 'clkin_50'
+Slack : -2.772
+TNS   : -66.957
+
+Type  : Slow 1200mV 0C Model Setup 'Clock_generator:INST5|clk_reg_extend[0]'
+Slack : -0.613
+TNS   : -6.643
+
+Type  : Slow 1200mV 0C Model Hold 'clkin_50'
+Slack : 0.321
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Clock_generator:INST5|clk_reg_extend[0]'
+Slack : 0.450
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clkin_50'
+Slack : -3.000
+TNS   : -90.733
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Clock_generator:INST5|clk_reg_extend[0]'
+Slack : -1.487
+TNS   : -23.792
+
+Type  : Fast 1200mV 0C Model Setup 'clkin_50'
+Slack : -0.706
+TNS   : -5.026
+
+Type  : Fast 1200mV 0C Model Setup 'Clock_generator:INST5|clk_reg_extend[0]'
+Slack : 0.267
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clkin_50'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Clock_generator:INST5|clk_reg_extend[0]'
+Slack : 0.168
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clkin_50'
+Slack : -3.000
+TNS   : -72.161
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Clock_generator:INST5|clk_reg_extend[0]'
+Slack : -1.000
+TNS   : -16.000
+
+------------------------------------------------------------
