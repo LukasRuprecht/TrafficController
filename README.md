@@ -22,11 +22,10 @@ Lukas Ruprecht, Guhan Iyer
 - 7-segment displays for traffic light status visualization
 - Push buttons for pedestrian crossing requests
 - LEDs for state and status indicators
+  
+  ![image](https://github.com/user-attachments/assets/92d94445-e759-4d84-b009-d2e078d5286c)
 
 ## Project Components
-
-![image](https://github.com/user-attachments/assets/92d94445-e759-4d84-b009-d2e078d5286c)
-
 
 
 ### Main Files
